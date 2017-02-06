@@ -1,3 +1,6 @@
+--plugin rspec
+--plugin cucumber
+
 features/**/*.feature
 spec/**/*.rb
 app/**/*.rb
